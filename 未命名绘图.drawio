@@ -41,24 +41,39 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MNxO1HE6Bc7mcedJeHtR" name="云平台数据流控制 ">
-    <mxGraphModel dx="655" dy="382" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="459" dy="267" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="p4jAWuZeDvQfVHBNCWP1-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="p4jAWuZeDvQfVHBNCWP1-1" target="p4jAWuZeDvQfVHBNCWP1-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p4jAWuZeDvQfVHBNCWP1-1" value="MQTT客户端" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="124" y="267" width="60" height="60" as="geometry" />
+        <mxCell id="p4jAWuZeDvQfVHBNCWP1-1" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;MQTT 客户端&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="124" y="295" width="60" height="32" as="geometry" />
         </mxCell>
         <mxCell id="p4jAWuZeDvQfVHBNCWP1-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="p4jAWuZeDvQfVHBNCWP1-33" target="p4jAWuZeDvQfVHBNCWP1-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p4jAWuZeDvQfVHBNCWP1-33" value="Redis" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="213" y="267" width="60" height="60" as="geometry" />
+          <mxGeometry x="213" y="294" width="60" height="33" as="geometry" />
         </mxCell>
         <mxCell id="p4jAWuZeDvQfVHBNCWP1-35" value="MYSQL" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="298" y="267" width="60" height="60" as="geometry" />
+          <mxGeometry x="298" y="294" width="60" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="p4jAWuZeDvQfVHBNCWP1-37" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.62;dx=11.83;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="58" y="303.5" width="46" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="p4jAWuZeDvQfVHBNCWP1-38" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;MQTT&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="58" y="283" width="38" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="p4jAWuZeDvQfVHBNCWP1-39" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.62;dx=11.83;notch=0;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="58" y="360.5" width="46" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="p4jAWuZeDvQfVHBNCWP1-40" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;RESTful&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="55" y="340" width="44" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="p4jAWuZeDvQfVHBNCWP1-50" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;边缘&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;网关&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="17" y="290" width="28" height="104" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
