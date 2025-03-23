@@ -45,20 +45,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="p4jAWuZeDvQfVHBNCWP1-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p4jAWuZeDvQfVHBNCWP1-1" target="p4jAWuZeDvQfVHBNCWP1-33">
+        <mxCell id="p4jAWuZeDvQfVHBNCWP1-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="p4jAWuZeDvQfVHBNCWP1-1" target="p4jAWuZeDvQfVHBNCWP1-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p4jAWuZeDvQfVHBNCWP1-1" value="MQTT客户端" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="54" y="261" width="60" height="60" as="geometry" />
+        <mxCell id="p4jAWuZeDvQfVHBNCWP1-1" value="MQTT客户端" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="124" y="267" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p4jAWuZeDvQfVHBNCWP1-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p4jAWuZeDvQfVHBNCWP1-33" target="p4jAWuZeDvQfVHBNCWP1-35">
+        <mxCell id="p4jAWuZeDvQfVHBNCWP1-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="p4jAWuZeDvQfVHBNCWP1-33" target="p4jAWuZeDvQfVHBNCWP1-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p4jAWuZeDvQfVHBNCWP1-33" value="Redis数据库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="194" y="261" width="60" height="60" as="geometry" />
+        <mxCell id="p4jAWuZeDvQfVHBNCWP1-33" value="Redis" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="213" y="267" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p4jAWuZeDvQfVHBNCWP1-35" value="MYSQL数据库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="334" y="261" width="60" height="60" as="geometry" />
+        <mxCell id="p4jAWuZeDvQfVHBNCWP1-35" value="MYSQL" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="298" y="267" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
